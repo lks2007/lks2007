@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lks2007
+- 👀 I’m interested in develepoment fullstack, python and monitoring server
+- 🌱 I’m currently learning python
+- 👀 I use HTML, CSS, JS, PHP, Python
