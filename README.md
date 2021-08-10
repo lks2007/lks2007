@@ -5,6 +5,6 @@ programming, computer, linux
 ## :telescope: I’m currently working on 
 a chatbot and website who use Python, Django, Channels, Postgresql and Redis
 ## 🌱 I’m currently learning 
-python
+C
 ## :computer: I use Linux (Manjaro) and programming 
 HTML, CSS, JS, PHP, Python, Redis, Postgres and Mysql
