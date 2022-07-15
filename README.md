@@ -3,7 +3,7 @@
 ## 👀 I’m interested in
 programming, computer, linux
 ## :telescope: I’m currently working on 
-a chatbot and website who use Python, Django, Channels, Postgresql and Redis
+Website and Mobile App who use Golang, Postgresql
 ## 🌱 I’m currently learning 
 Golang
 ## :computer: I use Linux (Manjaro) and programming 
