@@ -7,4 +7,4 @@ a chatbot and website who use Python, Django, Channels, Postgresql and Redis
 ## 🌱 I’m currently learning 
 Golang
 ## :computer: I use Linux (Manjaro) and programming 
-HTML, CSS, JS, PHP, Python, Redis, Postgres and Mysql
+HTML, CSS, JS, PHP, Python, Elixir, Golang, Redis, Postgres and Mysql
