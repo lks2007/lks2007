@@ -1,5 +1,5 @@
 ## About me 
-👋 Hi, I’m @lks2007, I'm French and I'm 14. 
+👋 Hi, I’m @lks2007, I'm French and I'm 15. 
 ## 👀 I’m interested in
 programming, computer, linux
 ## :telescope: I’m currently working on 
